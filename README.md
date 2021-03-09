@@ -1,2 +1,2 @@
 # sql-reference
-SQL References
+SQL references
